@@ -45,7 +45,9 @@ public class Categoria {
         this.nameCategory = nameCategory;
 
 
-        
+
+
+
     }
 
     public String getRutaCategory() {
